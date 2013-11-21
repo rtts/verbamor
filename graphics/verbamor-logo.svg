@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="463.01257"
+   height="101.30078"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="verbamor-logo.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3976">
+      <stop
+         style="stop-color:#900000;stop-opacity:1;"
+         offset="0"
+         id="stop3978" />
+      <stop
+         style="stop-color:#900000;stop-opacity:0;"
+         offset="1"
+         id="stop3980" />
+    </linearGradient>
+    <radialGradient
+       r="777.40997"
+       gradientTransform="matrix(0.022388,0.93738,-1.3014,0.031082,-763.57,433.73)"
+       cx="-698.57001"
+       cy="-54.702"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient3811">
+      <stop
+         offset="0"
+         stop-color="#fff"
+         id="stop3701" />
+      <stop
+         offset="1"
+         stop-opacity="0"
+         stop-color="#fff"
+         id="stop3703" />
+    </radialGradient>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter3740">
+      <feGaussianBlur
+         stdDeviation="37.488017"
+         id="feGaussianBlur3742" />
+    </filter>
+    <filter
+       x="-0.2168"
+       y="-0.18738"
+       color-interpolation-filters="sRGB"
+       width="1.4335999"
+       height="1.3748"
+       id="filter3719">
+      <feGaussianBlur
+         stdDeviation="140.44941"
+         id="feGaussianBlur3721" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter4020"
+       x="-0.32878727"
+       width="1.6575745"
+       y="-0.33974683"
+       height="1.6794937"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.0334539"
+         id="feGaussianBlur4022" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="294.21821"
+     inkscape:cy="45.032224"
+     inkscape:document-units="px"
+     inkscape:current-layer="svg2"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="765"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     fit-margin-top="10"
+     fit-margin-left="10"
+     fit-margin-right="10"
+     fit-margin-bottom="10" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Heart"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-54.594096,1.4925593)">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:connector-curvature="0"
+       id="path2816"
+       d="M 93.331269,9.7574407 C 85.663401,9.7795807 78.448558,16.113257 79.917393,27.74717 83.695748,42.392094 101.81955,49.237784 108.41462,81.876235 123.09057,52.775975 126.06208,48.959985 136.91151,27.750968 138.38035,16.115916 131.1655,9.7825027 123.49764,9.7600977 117.34194,9.7426277 110.89368,13.793006 108.41462,22.436036 105.93522,13.793006 99.487309,9.7426297 93.331269,9.7600977 z"
+       sodipodi:nodetypes="cccccccc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter4020)"
+       id="path3986"
+       sodipodi:cx="27.5"
+       sodipodi:cy="54.462151"
+       sodipodi:rx="11.071428"
+       sodipodi:ry="10.714286"
+       d="m 38.571428,54.462151 c 0,5.917336 -4.956847,10.714285 -11.071428,10.714285 -6.114581,0 -11.071428,-4.796949 -11.071428,-10.714285 0,-5.917337 4.956847,-10.714286 11.071428,-10.714286 6.114581,0 11.071428,4.796949 11.071428,10.714286 z"
+       transform="translate(55.445814,-23.510123)" />
+    <path
+       transform="translate(109.01724,-23.15298)"
+       d="m 38.571428,54.462151 c 0,5.917336 -4.956847,10.714285 -11.071428,10.714285 -6.114581,0 -11.071428,-4.796949 -11.071428,-10.714285 0,-5.917337 4.956847,-10.714286 11.071428,-10.714286 6.114581,0 11.071428,4.796949 11.071428,10.714286 z"
+       sodipodi:ry="10.714286"
+       sodipodi:rx="11.071428"
+       sodipodi:cy="54.462151"
+       sodipodi:cx="27.5"
+       id="path4027"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter4020)"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter4020)"
+       id="path4029"
+       sodipodi:cx="27.5"
+       sodipodi:cy="54.462151"
+       sodipodi:rx="11.071428"
+       sodipodi:ry="10.714286"
+       d="m 38.571428,54.462151 c 0,5.917336 -4.956847,10.714285 -11.071428,10.714285 -6.114581,0 -11.071428,-4.796949 -11.071428,-10.714285 0,-5.917337 4.956847,-10.714286 11.071428,-10.714286 6.114581,0 11.071428,4.796949 11.071428,10.714286 z"
+       transform="translate(98.660097,-11.724409)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Verbamor"
+     style="display:inline"
+     transform="translate(-57.362568,2.6252935)">
+    <text
+       xml:space="preserve"
+       style="font-size:89.44013977px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.96004915;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Sans"
+       x="71.327995"
+       y="91.25489"
+       id="text3801"
+       sodipodi:linespacing="125%"
+       transform="matrix(1.0416133,0,0,0.96004918,2.7684722,-1.1327342)"><tspan
+         sodipodi:role="line"
+         id="tspan3803"
+         x="71.327995"
+         y="91.25489"
+         style="font-size:89.44013977px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.96004915;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Junge;-inkscape-font-specification:Junge">Verbamor</tspan></text>
+  </g>
+</svg>
